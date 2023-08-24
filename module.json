@@ -1,0 +1,35 @@
+{
+  "name": "tacticalmap-p79",
+  "id": "tacticalmap-p79",
+  "title": "TM Docks and beach",
+  "description": "City docks where a small beach remains undeveloped. And also a version of the map without the city, with a lonely fisherman's house. There are roofs in the set. ",
+  "author": "Tactical Master",
+  "authors": [],
+  "url": "https://www.patreon.com/tacticalmap",
+  "flags": {},
+  "version": "1.0",
+  "minimumCoreVersion": "0.7.5",
+  "compatibleCoreVersion": "11",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "name": "docks-and-beach",
+      "label": "TM Docks and beach",
+      "path": "packs/docks-and-beach.db",
+      "type": "Scene",
+	  "entity": "Scene",
+      "module": "docks-and-beach",
+      "private": false
+    }
+  ],
+  "system": [],
+  "dependencies": [],
+  "socket": false,
+  "manifest": "https://github.com/TacticalMap/Maps/blob/main/module.json",
+  "download": "https://github.com/TacticalMap/Maps/archive/refs/heads/main.zip",
+  "protected": false,
+  "coreTranslation": false
+}
